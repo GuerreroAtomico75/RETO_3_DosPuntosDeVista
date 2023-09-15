@@ -28,3 +28,4 @@ graph TD
 ```
 #### Pseudocode
 El pseudocode del problema sería el siguiente:
+#### Psudo
